@@ -19,9 +19,9 @@ I love thinking about cool designs and bringing them to life. I'm always putting
 
 🐱 About Me
 
-<a href="mailto:au1gust8@gmail.com">[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white)](au1gust8@gmail.com)</a>
+<a href="mailto:au1gust8@gmail.com">[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:au1gust8@gmail.com)</a>
 <a href="https://www.notion.so/seungyeon-son/f3e8a252bbd3400091a195dcf63518fd?pvs=4">[![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&(https://www.notion.so/seungyeon-son/f3e8a252bbd3400091a195dcf63518fd?pvs=4))](https://www.notion.so/seungyeon-son/f3e8a252bbd3400091a195dcf63518fd?pvs=4)</a>
-<a href="https://velog.io/@sysn"> [![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&)](https://velog.io/@syson)</a>
+<a href="https://velog.io/@sysn"> [![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&)](https://velog.io/@sysn)</a>
 
 
 <!--
