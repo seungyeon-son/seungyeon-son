@@ -8,7 +8,7 @@ I love thinking about cool designs and bringing them to life. I'm always putting
 
 🛠️ Stacks
 
-<img src="https://img.shields.io/badge/javascript-f7df1e?style=flat-square&logo=javascript&logoColor=white"> <img src="https://img.shields.io/badge/html5-e34f26?style=flat-square&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css3-1572b6?style=flat-square&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/react-61dafb?style=flat-square&logo=react&logoColor=white"> <img src="https://img.shields.io/badge/styledComponents-db7093?style=flat-square&logoColor=white"> <img src="https://img.shields.io/badge/tailwind-06b6d4?style=flat-square&logo=react&logoColor=white"> <img src="https://img.shields.io/badge/shadcnui-000000?style=flat-square&logo=react&logoColor=white"> <img src="https://img.shields.io/badge/typescript-3178c6?style=flat-square&logo=react&logoColor=white"> <img src="https://img.shields.io/badge/sass-cc6699?style=flat-square&logo=react&logoColor=white"> 
+<img src="https://img.shields.io/badge/javascript-f7df1e?style=flat-square&logo=javascript&logoColor=white"> <img src="https://img.shields.io/badge/html5-e34f26?style=flat-square&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css3-1572b6?style=flat-square&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/react-61dafb?style=flat-square&logo=react&logoColor=white"> <img src="https://img.shields.io/badge/styledcomponents-db7093?style=flat-square&logoColor=white"> <img src="https://img.shields.io/badge/tailwind-06b6d4?style=flat-square&logo=react&logoColor=white"> <img src="https://img.shields.io/badge/shadcnui-000000?style=flat-square&logo=react&logoColor=white"> <img src="https://img.shields.io/badge/typescript-3178c6?style=flat-square&logo=react&logoColor=white"> <img src="https://img.shields.io/badge/sass-cc6699?style=flat-square&logo=react&logoColor=white"> 
 
 
 💪🏼 Tools 
@@ -18,6 +18,7 @@ I love thinking about cool designs and bringing them to life. I'm always putting
 
 
 🐱 About Me
+
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:au1gust8@gmail.com)](au1gust8@gmail.com)
   [![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=[https://joyous-pansy-314.notion.site/1612a809df194bb892e7dc0f4947c300](https://www.notion.so/seungyeon-son/f3e8a252bbd3400091a195dcf63518fd?pvs=4))]([https://joyous-pansy-314.notion.site/1612a809df194bb892e7dc0f4947c300](https://www.notion.so/seungyeon-son/f3e8a252bbd3400091a195dcf63518fd?pvs=4))
   [![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=[https://velog.io/@sysn)](https://velog.io/@syson)
