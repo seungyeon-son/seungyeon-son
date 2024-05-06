@@ -19,9 +19,9 @@ I love thinking about cool designs and bringing them to life. I'm always putting
 
 🐱 About Me
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:au1gust8@gmail.com)](au1gust8@gmail.com)
-  [![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=[https://joyous-pansy-314.notion.site/1612a809df194bb892e7dc0f4947c300](https://www.notion.so/seungyeon-son/f3e8a252bbd3400091a195dcf63518fd?pvs=4))]([https://joyous-pansy-314.notion.site/1612a809df194bb892e7dc0f4947c300](https://www.notion.so/seungyeon-son/f3e8a252bbd3400091a195dcf63518fd?pvs=4))
-  [![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=[https://velog.io/@sysn)](https://velog.io/@syson)
+<a href="mailto:au1gust8@gmail.com">[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white)](au1gust8@gmail.com)</a>
+<a href="https://www.notion.so/seungyeon-son/f3e8a252bbd3400091a195dcf63518fd?pvs=4">[![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&(https://www.notion.so/seungyeon-son/f3e8a252bbd3400091a195dcf63518fd?pvs=4))](https://www.notion.so/seungyeon-son/f3e8a252bbd3400091a195dcf63518fd?pvs=4)</a>
+<a href="https://velog.io/@sysn"> [![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&)](https://velog.io/@syson)</a>
 
 
 <!--
